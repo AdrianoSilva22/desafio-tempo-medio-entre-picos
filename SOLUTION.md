@@ -1,6 +1,6 @@
 `Cálculo do Tempo Médio entre Picos`
 
-Esse desafio da empresa Improvess tive que criar um algoritomo, optei por utilizar JavaScript, para calcular o tempo médio entre picos e retornar em minutos e segundos.
+Esse desafio da empresa Improvess tive que criar um algorítimo, optei por utilizar JavaScript, para calcular o tempo médio entre picos e retornar em minutos e segundos.
 
 `Implementação`
 
