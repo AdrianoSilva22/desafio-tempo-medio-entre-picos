@@ -2,7 +2,7 @@ let mensagemErro = ""
 
 function mostrarTempoMedioEntrePicos() {
 
-    let tempoEntrePicosEmSegundos= [] 
+    let tempoEntrePicosEmSegundos = []
     let tempoMedioEntrePicosEmSegundos = 0
     let contador = 0
 
