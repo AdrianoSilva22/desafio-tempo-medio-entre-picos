@@ -1,8 +1,8 @@
-#Cálculo do Tempo Médio entre Picos
+`Cálculo do Tempo Médio entre Picos`
 
 Esse desafio da empresa Improvess tive que criar um algoritomo, optei por utilizar JavaScript, para calcular o tempo médio entre picos e retornar em minutos e segundos.
 
-##Implementação
+`Implementação`
 
 Eu comecei definindo uma variável chamada "mensagemErro" para armazenar mensagens de erro e ajudar nos retornos. Em seguida, criei a função mostrarTempoMedioEntrePicos, que é responsável por realizar o cálculo do tempo médio entre os picos.
 
@@ -17,26 +17,28 @@ Após o loop, calculei o tempo médio dividindo o valor de contador pelo comprim
 
 Dessa forma, chamei a função formatarMininutoESegundo para formatar o tempo médio em minutos e segundos e exibir o resultado.
 
-##Função de Formatação (Mininutos e Segundos)
+`Função de Formatação (Mininutos e Segundos)`
 
 A função formatarMininutoESegundo é responsável por formatar o tempo em minutos e segundos: 
 
 Verifico se tempoEmSegundos existe e não está vazio, retorno uma mensagem de erro se estiver vazio, Converto o tempo para minutos e segundos, formato a saída para dois dígitos em minutos e segundos, Retorno o resultado formatado.
 
-##Dados 
+`Dados`
 
 Gerei dados em diversos cenários simulando um gráfico, para que independente da situação o algorítimo continue calculando.
 
-##Exemplos de entradas 
+`Exemplos de entradas`
 
 Preencher o array  tempoEntrePicosEmSegundos a exemplo:
 entrada: [25, 26, 30, 58, 24, 45]
 saída esperada : `00:35`
 
-##Maiores Dificuldades 
+`Maiores Dificuldades` 
+
 Escolher a melhor forma possível de como solucionar, sendo objetivo.
 Porém, a maior dificuldade foi interpretar o problema proposto.
 
-##Como executar a solução
+`Como executar a solução`
+
 É necessario ter um simples ambiente de execução Javascript, logo é necessário do Nodejs.
 Caso não possua instale em : https://nodejs.org/en/download
